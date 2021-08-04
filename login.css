@@ -128,7 +128,7 @@ font-size:11px;
 margin-left:445px;
 margin-top:20px;
 border:none;
- background-color:none;
+ background-color:white;
 cursor:pointer;
 }
 .last{
@@ -137,6 +137,7 @@ text-align:center;
 text-decoration:none;
 font-size:12px;
 padding:12px;
+ background-color:white;
 }
 #element{
 margin-left:730px;
