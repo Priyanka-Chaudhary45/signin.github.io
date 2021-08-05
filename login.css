@@ -46,6 +46,7 @@ height:100%;
  margin-top:18px;*/
  border: 1px solid #ccc;
   border-radius:5px;
+  tansition:all .2s linear;
  }
  #input-box:focus{
  outline:none;
